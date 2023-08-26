@@ -2,7 +2,7 @@
 Power BI Dashboards
 #Please look out for the pdf files as these pdfs contain Dashboards created in Power BI for different Datasets
 
-# Dashboard for EuroMart Sales across different regions showcasing Sales and Profi, top costumers, sales across categories etc
+# Dashboard for EuroMart Sales across different regions showcasing Sales and Profit, top costumers, sales across categories etc
 
 ![image](https://github.com/kirankampli/kreativebi3/assets/143105817/15aa3961-3130-4ee7-8d0b-7f435968b80d)
 
